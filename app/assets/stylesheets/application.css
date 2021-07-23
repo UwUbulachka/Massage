@@ -36,6 +36,14 @@ color: #7B68EE;
 
 .content {
 
-    margin-left: 1200px; /* Расстояние от левого края */ 
+    margin-left: 900px; /* Расстояние от левого края */ 
 
    }
+
+.d {
+    border-radius: 20px; /* Уголки */
+   }   
+
+.m:hover{ 
+    text-decoration: none; color: grey;
+     }   
