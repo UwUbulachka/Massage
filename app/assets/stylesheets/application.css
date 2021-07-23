@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+
+.img{
+ width: 40px;
+}
+
+.color{
+color: #7B68EE;
+}
+
+.layer1 {
+   font-family: Courier New, monospace; 
+   } 
+
+.a:hover {
+    color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+
+.content {
+
+    margin-left: 1200px; /* Расстояние от левого края */ 
+
+   }
