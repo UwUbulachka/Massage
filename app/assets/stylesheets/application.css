@@ -16,50 +16,37 @@
 
 
 
-
+/*Размер иконки на navbar*/
 .img{
  width: 40px;
 }
 
-.color{
-color: #7B68EE;
-}
-
+/*шрифт*/
 .layer1 {
    font-family: Courier New, monospace; 
    } 
 
+/*ссылкм navbar*/
 .a:hover {
     color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */  
     text-decoration: underline; /* Добавляем подчеркивание */
    }
 
-.content {
-
+ /* Кнопка navbar */ 
+.ots_btn {
     margin-left: 900px; /* Расстояние от левого края */ 
-
    }
+       
 
-.d {
-    border-radius: 20px; /* Уголки */
-   }   
-
-.m:hover{ 
-    text-decoration: none; color: grey;
-     }   
-
-.spina{
-    margin-top: 10%;
-    width: 200px;
-    margin-left: 10%;
-
-}     
-
+ /* Отступ от navbar */
 .ots { 
   margin-top: 5%
   }
 
+/* Цвет фона */
 .body {
-    background: #D8BFD8; /* Цвет фона */
+    background: #D8BFD8; 
    }
+
+
 
