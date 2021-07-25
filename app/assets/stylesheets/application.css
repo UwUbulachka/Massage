@@ -47,3 +47,19 @@ color: #7B68EE;
 .m:hover{ 
     text-decoration: none; color: grey;
      }   
+
+.spina{
+    margin-top: 10%;
+    width: 200px;
+    margin-left: 10%;
+
+}     
+
+.ots { 
+  margin-top: 5%
+  }
+
+.body {
+    background: #D8BFD8; /* Цвет фона */
+   }
+
